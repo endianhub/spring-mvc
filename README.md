@@ -4,6 +4,8 @@
 
 spring-mvc学习项目
 
+这是一个普通的项目，如果要学习maven可以在maven分支下拉取。
+
 
 <br><br>
 
